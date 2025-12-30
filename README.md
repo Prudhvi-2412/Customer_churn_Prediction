@@ -188,6 +188,6 @@ RocCurveDisplay.from_estimator(model, X_test, y_test)
 
 👨‍💻 Developed By :-
 
-Navaneeth Nalla
+K Prudhvi Sai Ram
 
-🏫 IIT Patna
+🏫 IIIT Sri City
